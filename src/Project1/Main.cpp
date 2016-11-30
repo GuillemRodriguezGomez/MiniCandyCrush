@@ -34,7 +34,7 @@ int main(int, char*[]) {
 				default:;
 				}
 			}
-			//UPDATE
+			//UPDATEs
 			playerRect.x += (playerTarget.x - playerRect.x)*0.1f;
 			playerRect.y += (playerTarget.y - playerRect.y)*0.1f;
 			//DRAW
